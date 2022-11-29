@@ -18,7 +18,7 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 
-I imported the time module to work with time in Python. I introduced the user to the typing game with a "Welcome to the Typing Masterclass. Press Enter to start typing." I calculated the words per minute (WPM) with elapsed time, character count, and word count.
+I imported the time module to work with time in Python. I introduced the user to the typing game with a "Welcome to the Typing Masterclass. Press Enter to start typing." I calculated the words per minute (WPM) with elapsed time, character count, and word count. So far, the user is able to write their own sentence, which then the program calculates the WPM, instead of giving a random set of sentences. 
 
 #### What have you not done for your project yet?
 
