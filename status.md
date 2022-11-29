@@ -2,15 +2,15 @@
 
 #### Your name
 
-TODO
+Juah Chae
 
 #### Your section leader's name
 
-TODO
+Professor Rosen
 
 #### Project title
 
-TODO
+Typing Masterclass
 
 ***
 
@@ -18,11 +18,12 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 
-TODO
+I imported the time module to work with time in Python. I introduced the user to the typing game with a "Welcome to the Typing Masterclass. Press Enter to start typing." I calculated the words per minute (WPM) with elapsed time, character count, and word count.
 
 #### What have you not done for your project yet?
 
-TODO
+I need to generate a list of sentences with words and characters. It needs to be randomized for the user. I need to make the characters white, red, and green. If red, then the user input the wrong character. If green, then the user input the right character. 
+I need the program to detect when the user finishes the sentence with punctuation, instead of having to press Enter again, which might affect the WPM. 
 
 #### What problems, if any, have you encountered?
 
